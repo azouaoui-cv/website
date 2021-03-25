@@ -24,10 +24,10 @@ email: 'alexandre.zouaoui AT inria.fr'
 #phone: 
 address:
     #  street: 
-  city: Grenoble
+  city: Grenoble, France
   #  region:
   #  postcode:
-  country: France
+  #  country: France
   #  country_code: FR
   #coordinates:
   #  latitude:
@@ -63,8 +63,8 @@ main_menu:
 
 highlight: true
 highlight_languages:
-  - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
