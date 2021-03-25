@@ -72,8 +72,9 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Student enrolled at Université Grenoble-Alpes and working in the [INRIA](https://www.inria.fr/en) [Thoth](https://thoth.inrialpes.fr/) team under the supervision of [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.html) on Deep Sparse Coding Models for Computer Vision.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before starting my PhD, I worked as a Research Engineer for less than a year, already under the supervision of Julien Mairal in the INRIA Thoth team.
+I graduated from both [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) and [Télécom Paris](https://www.telecom-paris.fr/en/home) prior to moving to [Grenoble](https://www.grenoblealpesmetropole.fr/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
