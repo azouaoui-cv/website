@@ -20,11 +20,11 @@ twitter: 'azouaoui_cv'
 
 # Contact (edit or remove options as required)
 
-email: 'alexandre.zouaoui AT inria.fr'
+email: '{first name} DOT {last name} AT inria DOT fr'
 #phone: 
-address:
+#address:
     #  street: 
-  city: Grenoble, France
+    #  city: Grenoble, France
   #  region:
   #  postcode:
   #  country: France
@@ -41,6 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     link: 'https://twitter.com/azouaoui_cv'
+    name: Drop me a DM
 
 # Site header
 
