@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,4 +77,4 @@ I am a PhD Student enrolled at Université Grenoble-Alpes and working in the [IN
 Before starting my PhD, I worked as a Research Engineer for less than a year, already under the supervision of Julien Mairal in the INRIA Thoth team.
 I graduated from both [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) and [Télécom Paris](https://www.telecom-paris.fr/en/home) prior to moving to [Grenoble](https://www.grenoblealpesmetropole.fr/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
