@@ -6,7 +6,7 @@ title: Alexandre Zouaoui
 superuser: true
 
 # Role/position/tagline
-role: PhD student 
+role: PhD Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://thoth.inrialpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently working on the use of sparsity in model-based deep architectures. My research interests focus on machine learning at large with emphasis on computer vision.
+bio: I am currently working on the use of sparsity in model-based deep architectures. My research interests focus on Machine Learning at large with emphasis on Computer Vision.
 
 # Interests to show in About widget
 interests:
