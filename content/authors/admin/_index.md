@@ -72,9 +72,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD Student enrolled at [Université Grenoble-Alpes](https://www.univ-grenoble-alpes.fr/english/) and working in the [INRIA](https://www.inria.fr/en) [Thoth](https://thoth.inrialpes.fr/) team under the supervision of [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.html) on Deep Sparse Coding Models for Computer Vision.
+I am currently a PhD Student enrolled at [Université Grenoble-Alpes](https://www.univ-grenoble-alpes.fr/english/) and working in the [INRIA](https://www.inria.fr/en) [Thoth](https://thoth.inrialpes.fr/) team under the supervision of [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.html) on Deep Sparse Coding Models for Computer Vision.
 
-Before starting my PhD, I worked as a Research Engineer for less than a year, already under the supervision of Julien Mairal in the INRIA Thoth team.
+Before starting my PhD, I worked as a Research Engineer for almost a year, under the supervision of Julien Mairal in the INRIA Thoth team.
 I graduated from both [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) and [Télécom Paris](https://www.telecom-paris.fr/en/home) prior to moving to [Grenoble](https://www.grenoblealpesmetropole.fr/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Feel free to download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
